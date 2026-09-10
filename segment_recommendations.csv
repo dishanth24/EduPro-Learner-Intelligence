@@ -1,0 +1,87 @@
+SegmentName,CourseCategory,RecommendationCount
+AI Beginner Learners,Artificial Intelligence,619
+AI Beginner Learners,Project Management,548
+AI Beginner Learners,Design,290
+AI Beginner Learners,Cybersecurity,238
+AI Beginner Learners,Marketing,233
+AI Beginner Learners,Digital Marketing,148
+AI Beginner Learners,Machine Learning,130
+AI Beginner Learners,Programming,104
+AI Beginner Learners,Business,65
+Advanced Machine Learning Learners,Machine Learning,434
+Advanced Machine Learning Learners,Marketing,215
+Advanced Machine Learning Learners,Design,117
+Advanced Machine Learning Learners,Digital Marketing,90
+Advanced Machine Learning Learners,Cybersecurity,29
+Advanced Machine Learning Learners,Project Management,28
+Advanced Machine Learning Learners,Finance,4
+Advanced Machine Learning Learners,Business,3
+Advanced Marketing Learners,Marketing,530
+Advanced Marketing Learners,Design,96
+Advanced Marketing Learners,Digital Marketing,55
+Advanced Marketing Learners,Machine Learning,54
+Advanced Marketing Learners,Business,10
+Advanced Marketing Learners,Web Development,6
+Advanced Marketing Learners,Cybersecurity,5
+Advanced Marketing Learners,Project Management,4
+Advanced Web Development Learners,Web Development,525
+Advanced Web Development Learners,Marketing,100
+Advanced Web Development Learners,Cybersecurity,52
+Advanced Web Development Learners,Project Management,51
+Advanced Web Development Learners,Design,20
+Advanced Web Development Learners,Digital Marketing,4
+Advanced Web Development Learners,Business,3
+Business Advanced Learners,Business,625
+Business Advanced Learners,Marketing,417
+Business Advanced Learners,Design,249
+Business Advanced Learners,Cybersecurity,57
+Business Advanced Learners,Project Management,57
+Business Advanced Learners,Digital Marketing,42
+Business Advanced Learners,Machine Learning,37
+Business Advanced Learners,Web Development,1
+Cybersecurity Beginners,Cybersecurity,1101
+Cybersecurity Beginners,Programming,491
+Cybersecurity Beginners,Finance,392
+Cybersecurity Beginners,Design,303
+Cybersecurity Beginners,Marketing,239
+Cybersecurity Beginners,Machine Learning,196
+Cybersecurity Beginners,Project Management,167
+Cybersecurity Beginners,Digital Marketing,136
+Cybersecurity Beginners,Business,55
+Data Science Beginners,Data Science,694
+Data Science Beginners,Marketing,160
+Data Science Beginners,Cybersecurity,102
+Data Science Beginners,Project Management,99
+Data Science Beginners,Machine Learning,81
+Data Science Beginners,Digital Marketing,80
+Data Science Beginners,Design,68
+Data Science Beginners,Finance,4
+Data Science Beginners,Business,1
+Data Science Beginners,Programming,1
+Deep Design Learners,Design,867
+Deep Design Learners,Marketing,202
+Deep Design Learners,Digital Marketing,44
+Deep Design Learners,Cybersecurity,43
+Deep Design Learners,Project Management,42
+Deep Design Learners,Business,8
+Deep Design Learners,Finance,3
+Deep Design Learners,Machine Learning,1
+Digital Marketing Learners,Digital Marketing,531
+Digital Marketing Learners,Marketing,141
+Digital Marketing Learners,Design,93
+Digital Marketing Learners,Cybersecurity,80
+Digital Marketing Learners,Project Management,78
+Digital Marketing Learners,Machine Learning,35
+Digital Marketing Learners,Finance,7
+Highly Engaged AI Explorers,Design,332
+Highly Engaged AI Explorers,Marketing,332
+Highly Engaged AI Explorers,Cybersecurity,249
+Highly Engaged AI Explorers,Business,220
+Highly Engaged AI Explorers,Artificial Intelligence,177
+Highly Engaged AI Explorers,Digital Marketing,174
+Highly Engaged AI Explorers,Project Management,152
+Highly Engaged AI Explorers,Finance,148
+Highly Engaged AI Explorers,Data Science,128
+Highly Engaged AI Explorers,Web Development,94
+Highly Engaged AI Explorers,Machine Learning,83
+Highly Engaged AI Explorers,Programming,71
