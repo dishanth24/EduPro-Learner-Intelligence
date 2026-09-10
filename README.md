@@ -2,6 +2,8 @@
 
 EduPro Learner Intelligence is a Streamlit-based learner analytics and personalized course recommendation system. It analyzes learner behavior, preferences, engagement, and performance to identify learner segments and provide personalized course recommendations.
 
+Streamlit app: https://edupro-learner-intelligence-zk26cegpux9vgktdrgeafr.streamlit.app/
+
 ## Project Overview
 
 The system provides an interactive dashboard to analyze learner data and understand learning patterns across different learner segments.
