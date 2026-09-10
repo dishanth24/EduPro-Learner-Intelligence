@@ -1102,10 +1102,10 @@ elif page == "📊 Analytics":
         st.write("")
         section_header("Learner Metric Correlations")
         correlation = numeric_data.corr().round(2)
-        st.dataframe(
-            correlation.style.background_gradient(cmap="BuGn", vmin=-1, vmax=1),
-            use_container_width=True,
-        )
+            st.dataframe(
+        correlation.round(2),
+        use_container_width=True,
+    )
 
     st.write("")
     section_header("Data Quality")
