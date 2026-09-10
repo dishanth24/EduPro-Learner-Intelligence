@@ -1102,7 +1102,7 @@ elif page == "📊 Analytics":
         st.write("")
         section_header("Learner Metric Correlations")
         correlation = numeric_data.corr().round(2)
-            st.dataframe(
+        st.dataframe(
         correlation.round(2),
         use_container_width=True,
     )
